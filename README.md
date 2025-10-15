@@ -1,2 +1,3 @@
-# ejercicios-algoritmos
-Ejercicios prácticos de algoritmos y programación
+- Lenguaje: PSeInt / Python
+- Curso: Algoritmos y Programación
+- Profesor: Norbey Danilo Muñoz
